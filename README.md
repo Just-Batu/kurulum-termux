@@ -1,5 +1,6 @@
 # kurulum-termux
 Termuxdaki tüm paketleri tek bir kodda hızlıca indirmenizi sağlar
+
 Made By Batu - Discord medusamarka
 
 # Kullanım
@@ -30,6 +31,8 @@ apt update
 # Ne İşe Yarar
 İndirilen Paketleri Son Sürümüne Güncellemenizi Sağlar
 
+
+# İyi Günler
 ██████╗░░█████╗░████████╗██╗░░░██╗
 ██╔══██╗██╔══██╗╚══██╔══╝██║░░░██║
 ██████╦╝███████║░░░██║░░░██║░░░██║
