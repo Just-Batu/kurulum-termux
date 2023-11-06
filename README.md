@@ -18,7 +18,7 @@ bash kurulum.sh
 # Bu Kadar
 
 # Tavsiye
-Kurulun Bittikten Sonra cd Yazın ve Şu Komutları Yazın:
+Kurulum Bittikten Sonra cd Yazın ve Şu Komutları Yazın:
 
 pkg upgrade
 
